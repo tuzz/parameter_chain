@@ -66,9 +66,3 @@ Chaining from class methods, e.g.
 ```ruby
 MyClass.foo(123).bar(321)
 ```
-
-## Contribution
-
-Feel free. No pull request is too small.
-
-Twitter: [@cpatuzzo](https://twitter.com/#!/cpatuzzo)
